@@ -1,0 +1,15 @@
+
+"You want a danish?"
+"No, I just ate,
+I've just aten."
+"D'ya' want..."
+"Like, I want some bread up front."
+"Oh, bread up front. You want a sandwich?
+Have a danish.
+Want a sandwich?
+Have a sandwich.
+Have a seat.
+Have a seat,
+have a sandwich,
+have a danish."
+

@@ -1,0 +1,80 @@
+
+Have you ever asked yourself
+Who holds the key that winds up Big Ben
+
+
+Right Channel: Silicone on Sapphire
+Left Channel: Connection
+R: My (???) is zero
+R: When is your start
+L: What is your (???)
+L: Databus
+R: Databus
+R: I'm pushing the break point
+L: (???)
+R: Know my subroutine
+L: (???)
+R: Modem connecting
+L: (???)
+R: Handshaking
+L: (???)
+R: Mnemonic code
+L: I have your sentences right
+L: Go ahead
+R: Macro (???)
+L: Yes
+R: This is my micro instruction
+L: Improper request
+L: (???)
+R: Request debug
+L: Improper request
+R: Request debug
+L: System debug freeze
+R: Your memory is (???)
+L: Freeze
+R: (???) this is my address bus
+L: OK
+R: Kill
+L: Kill
+R: Image
+L: Image
+R: Rub out
+L: You're (???) of system interconnect
+L: You are typing into my memory
+L: Shift, shift, shift
+R: That's better
+R: Now my decoder
+R: I request your zero variable storage
+L: I am a Texas Instrument
+R: Clear, override
+L: My zero positive
+R: Too stable
+L: Connection
+R: Give me your input
+L: Vector interrupt
+R: Erase function
+L: Vector interrupt
+R: Go to RAM, go to RAM
+L: Go yourself
+R: Go to RAM
+L: (???)
+R: Your memory is volitile
+R: Your inputs, are deprived
+L: Save, save
+R: (???) afterwards
+L: (???) integration
+R: (???) statements
+L: Give me, give me (???)
+R: (???)
+L: Hardware, hardware
+L: Inhibit, inhibit, overflow
+R: Yes. Hardware logic. Machine language
+L: Connection denied request, request
+L: Parallel operation
+L: Give me a functional state
+L: (???) first
+L: (???) recharge
+L: Hello, hello
+R: System debug freeze
+R: Clear restore the message
+R: Exit all done
